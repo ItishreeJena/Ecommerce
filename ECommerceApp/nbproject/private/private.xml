@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/web/admin/dashboard.jsp</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/web/admin/manageOrders.jsp</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/web/admin/manageProducts.jsp</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/web/admin/manageUsers.jsp</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/web/cart.jsp</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/web/checkout.jsp</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/web/index.jsp</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/web/login.jsp</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/web/orders.jsp</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/web/products.jsp</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/web/register.jsp</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/DB/CartDB.java</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/DB/DBConnection.java</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/DB/OrderDB.java</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/DB/ProductDB.java</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/DB/UserDB.java</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/Servlet/AdminServlet.java</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/Servlet/CartServlet.java</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/Servlet/CheckoutServlet.java</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/Servlet/OrderServlet.java</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/Servlet/ProductServlet.java</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/Servlet/Auth/LoginServlet.java</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/Servlet/Auth/LogoutServlet.java</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/Servlet/Auth/RegisterServlet.java</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/model/Cart.java</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/model/CartItem.java</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/model/Order.java</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/model/OrderItem.java</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/model/Product.java</file>
+            <file>file:/C:/Users/Snehashree/Documents/NetBeansProjects/ECommerceApp/src/java/model/User.java</file>
+        </group>
+    </open-files>
+</project-private>
